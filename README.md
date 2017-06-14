@@ -1,6 +1,16 @@
 # DataMining-University.of.Illinois
 Data Mining Specialization - University of Illinois at Urbana-Champaign - Coursera
 
+## Course 1 - Data Visualization
+
+## Course 2 - Text Retrieval and Search Engines
+
+## Course 3 - Text Mining and Analytics
+
+## Course 4 - Pattern Discovery in Data Mining
+
+## Course 4 - Cluster Analysis in Data Mining
+
 #### Taught by:
 #### John C. Hart - Professor of Computer Science
 #### Jiawei Han - Abel Bliss Professor
