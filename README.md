@@ -9,7 +9,7 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 
 ## Course 4 - Pattern Discovery in Data Mining
 
-## Course 4 - Cluster Analysis in Data Mining
+## Course 5 - Cluster Analysis in Data Mining
 
 #### Taught by:
 #### John C. Hart - Professor of Computer Science
