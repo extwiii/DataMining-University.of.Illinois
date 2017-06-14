@@ -1,6 +1,11 @@
 # DataMining-University.of.Illinois
 Data Mining Specialization - University of Illinois at Urbana-Champaign - Coursera
 
+#### Taught by:
+#### John C. Hart - Professor of Computer Science
+#### Jiawei Han - Abel Bliss Professor
+#### ChengXiang Zhai - Professor
+
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 
