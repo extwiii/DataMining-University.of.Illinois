@@ -2,6 +2,10 @@
 Data Mining Specialization - University of Illinois at Urbana-Champaign - Coursera
 
 ## Course 1 - Data Visualization
+* Week 1: The Computer and the Human
+* Week 2: Visualization of Numerical Data
+* Week 3: Visualization of Non-Numerical Data
+* Week 4: The Visualization Dashboard
 
 ## Course 2 - Text Retrieval and Search Engines
 
