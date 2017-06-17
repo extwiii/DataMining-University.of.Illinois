@@ -2,7 +2,9 @@
 Data Mining Specialization - University of Illinois at Urbana-Champaign - Coursera
 
 ## Course 1 - Data Visualization
-* Week 1: The Computer and the Human [[DataHero](https://datahero.com/)][[Plotly](https://plot.ly/)][[Polychart](https://github.com/Polychart)][[Juice Analytics](http://www.juiceanalytics.com/)][[Weave](http://www.iweave.org/)][[Datavisual](http://datavisu.al/)] [[Silk](https://www.silk.co/)][[Zoomdata](https://www.zoomdata.com/)][[RAW](http://rawgraphs.io/)] [[Datawrapper](https://www.datawrapper.de/)]
+* Week 1: The Computer and the Human 
+    * Online Data Visualization Websites : [[DataHero](https://datahero.com/)][[Plotly](https://plot.ly/)][[Polychart](https://github.com/Polychart)][[Juice Analytics](http://www.juiceanalytics.com/)][[Weave](http://www.iweave.org/)][[Datavisual](http://datavisu.al/)][[Silk](https://www.silk.co/)][[Zoomdata](https://www.zoomdata.com/)][[RAW](http://rawgraphs.io/)][[Datawrapper](https://www.datawrapper.de/)]
+    * Software : [[Tableau](https://www.tableau.com/)]
 * Week 2: Visualization of Numerical Data
 * Week 3: Visualization of Non-Numerical Data
 * Week 4: The Visualization Dashboard
