@@ -2,7 +2,7 @@
 Data Mining Specialization - University of Illinois at Urbana-Champaign - Coursera
 
 ## Course 1 - Data Visualization
-* Week 1: The Computer and the Human [DataHero](https://datahero.com/)-[Plotly](https://plot.ly/)-[Polychart](https://github.com/Polychart)
+* Week 1: The Computer and the Human [[DataHero](https://datahero.com/)]-[[Plotly](https://plot.ly/)]-[[Polychart](https://github.com/Polychart)]-[[Juice Analytics](http://www.juiceanalytics.com/)]-[[Weave](http://www.iweave.org/)][[Datavisual](http://datavisu.al/)]
 * Week 2: Visualization of Numerical Data
 * Week 3: Visualization of Non-Numerical Data
 * Week 4: The Visualization Dashboard
