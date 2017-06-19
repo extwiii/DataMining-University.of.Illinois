@@ -9,7 +9,8 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
   * [[NASA](https://data.giss.nasa.gov/gistemp/)][[D3](https://d3js.org/)][[D3 Tutorial Book](https://www.dashingd3js.com/table-of-contents)][[D3 – Making a Line Graph](https://code.tutsplus.com/tutorials/building-a-multi-line-chart-using-d3js--cms-22935)]
 * Week 3: Visualization of Non-Numerical Data
   * [[Graphviz](http://graphviz.org/)][[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)][[UCI Network Data Repository](https://networkdata.ics.uci.edu/index.php)]
-* Week 4: The Visualization Dashboard
+* Week 4: The Visualization Dashboard 
+  * [[OLAP](http://olap.com/olap-definition/)]
 
 ## Course 2 - Text Retrieval and Search Engines
 
