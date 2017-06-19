@@ -13,6 +13,7 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
   * [[OLAP](http://olap.com/olap-definition/)]
 
 ## Course 2 - Text Retrieval and Search Engines
+* Week 1: Part of Speech tagging, syntactic analysis, semantic analysis, and ambiguity. Push, pull, querying, browsing. Vector space model
 
 ## Course 3 - Text Mining and Analytics
 
