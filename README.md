@@ -21,6 +21,7 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 * Week 6: Learning to rank, features, and logistic regression, Beta-Gamma threshold learning, Exploration-exploitation tradeoff 
 
 ## Course 3 - Text Mining and Analytics
+* Week 1: Part of speech tagging, Semantic analysis, Ambiguity, Context of a word; context similarity, Syntagmatic relation 
 
 ## Course 4 - Pattern Discovery in Data Mining
 
