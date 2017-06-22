@@ -16,6 +16,9 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 * Week 1: Part of Speech tagging, syntactic analysis, semantic analysis, and ambiguity. Push, pull, querying, browsing. Vector space model
 * Week 2: Term frequency (TF), transformation. Pivoted length normalization. Zipf’s law 
 * Week 3: Cranfield evaluation methodology. F-measure. Normalized Discounted Cumulative Gain (nDCG). Statistical significance test 
+* Week 4: Statistical and unigram language models, Background, collection, and document language models, Dirichlet Prior smoothing 
+* Week 5: Relevance feedback, Rocchio feedback, Scalability and efficiency, Google File System (GFS), PageRank and HITS 
+* Week 6: Learning to rank, features, and logistic regression, Beta-Gamma threshold learning, Exploration-exploitation tradeoff 
 
 ## Course 3 - Text Mining and Analytics
 
