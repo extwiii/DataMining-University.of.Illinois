@@ -23,6 +23,8 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 ## Course 3 - Text Mining and Analytics
 * Week 1: Part of speech tagging, Semantic analysis, Ambiguity, Context of a word; context similarity, Syntagmatic relation 
 * Week 2: Entropy, Mutual information, Generative model, Background language model, Likelihood, Bayes rule, Prior model
+* Week 3: Mixture model, Constraints on probabilities, E-step and M-step, Local maximum
+* Week 4: Clustering bias, Mixture model, likelihood, and maximum likelihood estimation, Spam filtering, Naïve Bayes classifier
 
 ## Course 4 - Pattern Discovery in Data Mining
 
