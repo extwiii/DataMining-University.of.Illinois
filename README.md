@@ -26,6 +26,7 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 * Week 3: Mixture model, Constraints on probabilities, E-step and M-step, Local maximum
 * Week 4: Clustering bias, Mixture model, likelihood, and maximum likelihood estimation, Spam filtering, Naïve Bayes classifier
 * Week 5: Training data, Logistic regression, K-Nearest Neighbor classifier, Support Vector Machine (SVM), margin, and linear separator
+* Week 6: Latent aspect rating analysis (LARA), Generative model, Text-based prediction, Event impact analysis, Causal topics
 
 ## Course 4 - Pattern Discovery in Data Mining
 
