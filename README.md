@@ -35,6 +35,7 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 * Week 4: Pattern Mining Applications: Mining Quality Phrase from Text Data, Advanced Topics on Pattern Discovery
 
 ## Course 5 - Cluster Analysis in Data Mining
+* Week 1: Cluster Analysis: An Introduction,
 
 #### Taught by:
 #### John C. Hart - Professor of Computer Science
