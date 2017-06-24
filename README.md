@@ -29,6 +29,8 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 * Week 6: Latent aspect rating analysis (LARA), Generative model, Text-based prediction, Event impact analysis, Causal topics
 
 ## Course 4 - Pattern Discovery in Data Mining
+* Week 1: Pattern Discovery: Basic Concepts, Efficient Pattern Mining Methods 
+* Week 2: Pattern Evaluation, Mining Diverse Patterns 
 
 ## Course 5 - Cluster Analysis in Data Mining
 
