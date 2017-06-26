@@ -1,4 +1,4 @@
-# DataMining-University.of.Illinois
+# DataMining-University.of.Illinois :white_check_mark:
 Data Mining Specialization - University of Illinois at Urbana-Champaign - Coursera
 
 ## Course 1 - Data Visualization
