@@ -38,6 +38,7 @@ Data Mining Specialization - University of Illinois at Urbana-Champaign - Course
 * Week 1: Cluster Analysis: An Introduction, Similarity Measures for Cluster Analysis
 * Week 2: Partitioning-Based Clustering Methods, Hierarchical Clustering Methods (Part I) 
 * Week 3: Hierarchical Clustering Methods (Part I), Density-Based and Grid-Based Clustering Methods 
+* Week 4: Cluster Validation
 
 #### Taught by:
 #### John C. Hart - Professor of Computer Science
